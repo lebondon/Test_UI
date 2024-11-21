@@ -1,4 +1,4 @@
 streamlit
 joblib
-sklearn
+scikit-learn
 numpy
