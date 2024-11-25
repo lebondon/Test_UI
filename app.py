@@ -3,7 +3,7 @@ import importlib
 from PIL import Image
 from streamlit_option_menu import option_menu
 
-files = ['titanic','iris']
+files = ['titanic','iris','cars']
 pages=[]
 modules=[]
 

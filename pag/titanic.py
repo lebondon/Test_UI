@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 def main():
-    pipe = joblib.load('titanic_pipe.pkl')
+    pipe = joblib.load("pag/pipes/titanic_pipe.pkl")
 
     st.title("Titanic Prediction")
     st.header("Insert possible values")
