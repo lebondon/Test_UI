@@ -5,3 +5,5 @@ streamlit_option_menu.option_menu
 importlib
 PIL.Image
 pandas
+matplotlyb.pyplot
+sklearn
