@@ -3,7 +3,7 @@ joblib
 numpy
 streamlit_option_menu
 importlib
-PIL.Image
+PIL
 pandas
-matplotlyb.pyplot
+matplotlyb
 sklearn
