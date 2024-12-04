@@ -1,7 +1,7 @@
 streamlit
 joblib
 numpy
-streamlit_option_menu.option_menu
+streamlit_option_menu
 importlib
 PIL.Image
 pandas
