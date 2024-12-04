@@ -1,6 +1,5 @@
 import streamlit as st
 import importlib
-from PIL import Image
 from streamlit_option_menu import option_menu
 
 files = ['titanic','iris','cars','penguins']
@@ -15,7 +14,7 @@ for file in files:
 
 st.set_page_config(
                     page_title="Template Project",
-                    page_icon=Image.open("icon_site.png"),
+                    page_icon=None,
                     layout="wide",
                     )
 
